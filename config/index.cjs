@@ -8,7 +8,9 @@
 const USER_CONFIG = {
   
   // use https://www.pushplus.plus/ as passage
-  USE_PASSAGE: 'push-plus',
+  // USE_PASSAGE: 'push-plus',
+  USE_PASSAGE: 'wechat-test',
+ 
   
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx5083c8637a947ad7',
