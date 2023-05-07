@@ -9,7 +9,7 @@
 const TEMPLATE_CONFIG = [
   {
     // 自定义，随便怎么填，与config里的templateId对应
-    id: '0001',
+    id: 'smaojEf8aNHug_yyhwhCu5NL0NNV2mkhEha9gUT9ibE ',
     // 模板标题，会展示到推送消息的标题位置
     title: '亲爱的, 早上好',
     // 模板内容，支持部分markdown语法
